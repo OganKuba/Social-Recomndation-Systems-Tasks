@@ -1,0 +1,4 @@
+Network’s name,↔?,N,E,⟨k⟩,α,ℓ,r,xmin (deg),KS,n_tail
+Karate Club,undirected,34,78,4.588,2.874,2.408,-0.476,3.0,0.273,22
+Florentine Families,undirected,15,20,2.667,2.196,2.486,-0.375,1.0,0.267,15
+Davis Southern Women (bipartite),undirected,32,89,5.562,2.708,2.306,-0.337,3.0,0.181,29

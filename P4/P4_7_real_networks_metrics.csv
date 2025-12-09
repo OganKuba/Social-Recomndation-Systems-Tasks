@@ -1,4 +1,4 @@
 Network’s name,↔?,N,E,⟨k⟩,α,ℓ,r
-Karate Club,undirected,34,78,4.588,2.874,2.408,-0.476
-Florentine Families,undirected,15,20,2.667,2.196,2.486,-0.375
-Davis Southern Women (bipartite),undirected,32,89,5.562,2.708,2.306,-0.337
+road-euroroad (NR),undirected,1174,1417,2.414,2.29,18.395,0.127
+email-dnc-corecipient (NR),undirected,906,10429,23.022,4.22,2.76,-0.125
+ia-southernwomen (NR),undirected,18,64,7.111,3.247,1.621,-0.364
